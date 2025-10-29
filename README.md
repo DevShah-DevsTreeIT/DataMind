@@ -1,5 +1,4 @@
-# DataMind
-An AI that thinks over data, both structured (SQL) and unstructured (RAG).
+# DataMind - An AI that thinks over data, both structured (SQL) and unstructured (RAG).
 
 
 # 🤖 DataMind — Unified AI Assistant for SQL, RAG & Hybrid Intelligence
